@@ -1,6 +1,8 @@
 # YOLO-Real-Time-Screen-Drawing
 基于Yolo的实时屏幕测绘脚本
 
+提供一个更方便的模型测试手段
+
 模型来源：https://github.com/Sempre0721/YOLO-Real-time-screen-detection-of-human-shapes
 
 1.获取屏幕截图：使用 mss 库获取当前屏幕的图像。
